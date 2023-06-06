@@ -1,7 +1,7 @@
 # Website_Apps-Chatting
 Pembuat : Alfian Wahyu Dzulkarnaen
 
-Website ini merupakan 
+Website ini merupakan sebuah website chatting yang simple dengan menngunakan vue
 
 tool yang terdapat pada website ini, yaitu ;
 
